@@ -3,4 +3,4 @@
   pageNav: 2
 </frontmatter>
 
-<include src="README.md#git" />
+<include src="README.md#bookmarks" />
