@@ -1,0 +1,47 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "README.md",
+      "title": "README",
+      "headings": {
+        "git": "Git"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic1.md",
+      "title": "",
+      "headings": {
+        "topic-1": "Topic 1"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic2.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3a.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/topic3b.md",
+      "title": "",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Bookmarks",
+      "headings": {
+        "git": "Git"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
