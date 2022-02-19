@@ -5,6 +5,9 @@
 <header fixed>
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Bookmarks</a>
+    <li>
+      <a href="https://github.com/tlylt/bookmarks" target="_blank" class="nav-link"><md>:fab-github:</md></a>
+    </li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
