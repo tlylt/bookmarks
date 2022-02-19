@@ -5,7 +5,10 @@
       "src": "README.md",
       "title": "README",
       "headings": {
-        "git": "Git"
+        "the-bookmarks": "The Bookmarks",
+        "code": "Code",
+        "git": "Git",
+        "test": "Test"
       },
       "headingKeywords": {}
     },
@@ -39,7 +42,9 @@
       "src": "index.md",
       "title": "Bookmarks",
       "headings": {
-        "git": "Git"
+        "code": "Code",
+        "git": "Git",
+        "test": "Test"
       },
       "headingKeywords": {}
     }
