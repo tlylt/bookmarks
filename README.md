@@ -1,5 +1,5 @@
 
-Also available as a [website](https://tlylt.github.io/bookmarks/)
+*Also available as a [website](https://tlylt.github.io/bookmarks/)*
 
 # The Bookmarks
 
@@ -29,7 +29,7 @@ Also available as a [website](https://tlylt.github.io/bookmarks/)
 
 ## Test
 - [Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](https://youtu.be/URSWYvyc42M)
-  - Neat presentation on testing, examples are in Rails but applies to any languages
+  - Neat presentation on testing, examples are in Rails but applicable to any languages
 
 </span>
 </div>

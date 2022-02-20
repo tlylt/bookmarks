@@ -12,8 +12,6 @@
     "_site/*",
     "site.json",
     "*.md",
-    "*.mbd",
-    "*.mbdf",
     "*.njk",
     ".git/*"
   ],
@@ -21,10 +19,6 @@
     {
       "src": "index.md",
       "title": "Bookmarks"
-    },
-    {
-      "src": "README.md",
-      "title": "README"
     },
     {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
