@@ -3,7 +3,7 @@
   "pages": [
     {
       "src": "README.md",
-      "title": "README",
+      "title": "",
       "headings": {
         "the-bookmarks": "The Bookmarks",
         "code": "Code",
