@@ -8,7 +8,8 @@
         "the-bookmarks": "The Bookmarks",
         "code": "Code",
         "git": "Git",
-        "test": "Test"
+        "test": "Test",
+        "cli": "CLI"
       },
       "headingKeywords": {}
     },
@@ -44,7 +45,8 @@
       "headings": {
         "code": "Code",
         "git": "Git",
-        "test": "Test"
+        "test": "Test",
+        "cli": "CLI"
       },
       "headingKeywords": {}
     }
