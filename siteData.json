@@ -6,10 +6,11 @@
       "title": "",
       "headings": {
         "the-bookmarks": "The Bookmarks",
+        "cli": "CLI",
         "code": "Code",
         "git": "Git",
-        "test": "Test",
-        "cli": "CLI"
+        "java": "Java",
+        "test": "Test"
       },
       "headingKeywords": {}
     },
@@ -43,10 +44,11 @@
       "src": "index.md",
       "title": "Bookmarks",
       "headings": {
+        "cli": "CLI",
         "code": "Code",
         "git": "Git",
-        "test": "Test",
-        "cli": "CLI"
+        "java": "Java",
+        "test": "Test"
       },
       "headingKeywords": {}
     }
