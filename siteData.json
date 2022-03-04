@@ -10,7 +10,8 @@
         "code": "Code",
         "git": "Git",
         "java": "Java",
-        "test": "Test"
+        "test": "Test",
+        "the-third-web": "The Third Web"
       },
       "headingKeywords": {}
     },
@@ -48,7 +49,8 @@
         "code": "Code",
         "git": "Git",
         "java": "Java",
-        "test": "Test"
+        "test": "Test",
+        "the-third-web": "The Third Web"
       },
       "headingKeywords": {}
     }
