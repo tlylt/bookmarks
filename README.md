@@ -40,6 +40,8 @@
 ## Java
 - [Comparison Method Violates Its General Contract! (Part 1) by Stuart Marks](https://youtu.be/Enwbh6wpnYs)
   - Ever wondered how concepts in discrete mathematics like "reflexive, transitive and antisymmetric" can be useful in programming?
+- [Optional by Stuart Marks](https://youtu.be/fBYhtvY19xA)
+  - Essentially what you need to know about Java's Optional: the origins, the caveats and usage details.
 
 </div>
 
