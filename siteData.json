@@ -9,6 +9,7 @@
         "cli": "CLI",
         "code": "Code",
         "git": "Git",
+        "github-actions-workflows": "GitHub Actions/Workflows",
         "java": "Java",
         "test": "Test",
         "the-third-web": "The Third Web"
@@ -48,6 +49,7 @@
         "cli": "CLI",
         "code": "Code",
         "git": "Git",
+        "github-actions-workflows": "GitHub Actions/Workflows",
         "java": "Java",
         "test": "Test",
         "the-third-web": "The Third Web"
