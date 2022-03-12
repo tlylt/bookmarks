@@ -35,6 +35,16 @@
 
 </div>
 
+<div id="gitHubActions">
+
+## GitHub Actions/Workflows
+- [Bash scripting cheatsheet](https://devhints.io/bash)
+  - Always going to bump into shell scripts, might as well take note of the syntax
+- [Shell Scripting Tutorial](https://www.shellscript.sh/index.html)
+  - Another shell tutorial that looks legit
+
+</div>
+
 <div id="java">
 
 ## Java
@@ -53,7 +63,7 @@
 
 </div>
 
-<div id="3rdweb">
+<div id="3rdWeb">
 
 ## The Third Web
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
