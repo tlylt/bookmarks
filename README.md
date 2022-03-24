@@ -52,6 +52,8 @@
   - Ever wondered how concepts in discrete mathematics like "reflexive, transitive and antisymmetric" can be useful in programming?
 - [Optional by Stuart Marks](https://youtu.be/fBYhtvY19xA)
   - Essentially what you need to know about Java's Optional: the origins, the caveats and usage details.
+- [Thinking In Parallel by Stuart Marks and Brian Goetz](https://youtu.be/2nup6Oizpcw)
+  - Introduction and some good discussion about Java's Stream feature
 
 </div>
 
