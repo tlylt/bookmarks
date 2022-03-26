@@ -54,6 +54,8 @@
   - Essentially what you need to know about Java's Optional: the origins, the caveats and usage details.
 - [Thinking In Parallel by Stuart Marks and Brian Goetz](https://youtu.be/2nup6Oizpcw)
   - Introduction and some good discussion about Java's Stream feature
+- [Let's Get Lazy: Exploring the Real Power of Streams with Venkat Subramaniam](https://www.youtube.com/watch?v=ekFPGD2g-ps)
+  - Well crafted presentation that explores various concepts of "Stream" in Java. Love the energy and the humour of the speaker too.
 
 </div>
 
