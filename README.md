@@ -59,6 +59,14 @@
 
 </div>
 
+<div id="softwareEngineering">
+
+## Software Engineering
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+  - We can't escape abstraction (either writing or using it), but it leaks!
+
+</div>
+
 <div id="test">
 
 ## Test
