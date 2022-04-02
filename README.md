@@ -52,6 +52,18 @@
   - Ever wondered how concepts in discrete mathematics like "reflexive, transitive and antisymmetric" can be useful in programming?
 - [Optional by Stuart Marks](https://youtu.be/fBYhtvY19xA)
   - Essentially what you need to know about Java's Optional: the origins, the caveats and usage details.
+- [Thinking In Parallel by Stuart Marks and Brian Goetz](https://youtu.be/2nup6Oizpcw)
+  - Introduction and some good discussion about Java's Stream feature
+- [Let's Get Lazy: Exploring the Real Power of Streams with Venkat Subramaniam](https://www.youtube.com/watch?v=ekFPGD2g-ps)
+  - Well crafted presentation that explores various concepts of "Stream" in Java. Love the energy and the humour of the speaker too.
+
+</div>
+
+<div id="softwareEngineering">
+
+## Software Engineering
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+  - We can't escape abstraction (either writing or using it), but it leaks!
 
 </div>
 
