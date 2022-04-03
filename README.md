@@ -42,6 +42,8 @@
   - Always going to bump into shell scripts, might as well take note of the syntax
 - [Shell Scripting Tutorial](https://www.shellscript.sh/index.html)
   - Another shell tutorial that looks legit
+- [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+  - Tagging is an important concept to master, especially for release management
 
 </div>
 
