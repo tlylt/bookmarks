@@ -74,6 +74,10 @@
 ## Test
 - [Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](https://youtu.be/URSWYvyc42M)
   - Neat presentation on testing, examples are in Rails but applicable to any languages
+- [Usability Cafe](http://goo.gl/zdD4jq)
+  - A template to conduct quick user testing
+- [Running a Remote Usability Test](https://youtu.be/ZkDafFDtJ1Y)
+  - Good instructions on how to conduct remote usability testing
 
 </div>
 
