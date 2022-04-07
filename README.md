@@ -82,6 +82,8 @@
   - Good instructions on how to conduct remote usability testing
 - [A/B Testing: Test Your Own Hypotheses & Prepare to be Wrong - Stuart Frisby](https://youtu.be/VQpQ0YHSfqM)
   - Quick take on data-driven development
+- [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://youtu.be/0dVIjWTI_A0)
+  - A/B testing - what could go wrong?
 
 </div>
 
