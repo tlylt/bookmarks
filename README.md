@@ -80,6 +80,8 @@
   - A template to conduct quick user testing
 - [Running a Remote Usability Test](https://youtu.be/ZkDafFDtJ1Y)
   - Good instructions on how to conduct remote usability testing
+- [A/B Testing: Test Your Own Hypotheses & Prepare to be Wrong - Stuart Frisby](https://youtu.be/VQpQ0YHSfqM)
+  - Quick take on data-driven development
 
 </div>
 
