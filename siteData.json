@@ -13,7 +13,8 @@
         "java": "Java",
         "software-engineering": "Software Engineering",
         "test": "Test",
-        "the-third-web": "The Third Web"
+        "the-third-web": "The Third Web",
+        "quotes": "Quotes"
       },
       "headingKeywords": {}
     },
@@ -54,7 +55,8 @@
         "java": "Java",
         "software-engineering": "Software Engineering",
         "test": "Test",
-        "the-third-web": "The Third Web"
+        "the-third-web": "The Third Web",
+        "quotes": "Quotes"
       },
       "headingKeywords": {}
     }
