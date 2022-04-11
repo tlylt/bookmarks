@@ -95,7 +95,14 @@
 - [The Third Web](https://tante.cc/2021/12/17/the-third-web/)
   - Introduction and critical discussion of the third web
 
+</div>
+
+<div id="quotes">
+
+## Quotes
+- Enlightened trial-and-error succeeds over the planning of the lone genius
 
 </div>
+  
 
 </div>
