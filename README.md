@@ -61,6 +61,14 @@
 
 </div>
 
+<div id="node">
+
+## Node
+- [package.json is not enough](https://youtu.be/7lYnzRkVVLE)
+  - Subtle difference between package.json and package-lock.json, and when to use `npm i` vs `npm ci`
+
+</div>  
+  
 <div id="softwareEngineering">
 
 ## Software Engineering
