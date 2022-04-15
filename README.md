@@ -66,6 +66,8 @@
 ## Node
 - [package.json is not enough](https://youtu.be/7lYnzRkVVLE)
   - Subtle difference between package.json and package-lock.json, and when to use `npm i` vs `npm ci`
+- [Node’s Child Processes](https://jscomplete.com/learn/node-beyond-basics/child-processes)
+  - More advanced stuff about the child process module
 
 </div>  
   
