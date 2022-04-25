@@ -25,6 +25,14 @@
 
 </div>
 
+<div id="frontend">
+
+## Frontend Libraries
+- [Swup](https://github.com/swup/swup)
+  - Complete, flexible, extensible and easy to use page transition library for your static web
+
+</div>
+
 <div id="git">
 
 ## Git
