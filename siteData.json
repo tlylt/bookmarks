@@ -8,6 +8,7 @@
         "the-bookmarks": "The Bookmarks",
         "cli": "CLI",
         "code": "Code",
+        "frontend-libraries": "Frontend Libraries",
         "git": "Git",
         "github-actions-workflows": "GitHub Actions/Workflows",
         "java": "Java",
@@ -51,6 +52,7 @@
       "headings": {
         "cli": "CLI",
         "code": "Code",
+        "frontend-libraries": "Frontend Libraries",
         "git": "Git",
         "github-actions-workflows": "GitHub Actions/Workflows",
         "java": "Java",
