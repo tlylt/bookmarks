@@ -5,7 +5,7 @@
 
 <div id="bookmarks">
 
-<div id="cli">
+<div id="cliSection">
 
 ## CLI
 - [Command Line Interface Guidelines](https://clig.dev/)
@@ -15,7 +15,7 @@
 
 </div>
 
-<div id="code">
+<div id="codeSection">
 
 ## Code
 - [Aha Programming](https://kentcdodds.com/blog/aha-programming)
@@ -25,7 +25,7 @@
 
 </div>
 
-<div id="frontend">
+<div id="frontendSection">
 
 ## Frontend Libraries
 - [Swup](https://github.com/swup/swup)
@@ -33,7 +33,7 @@
 
 </div>
 
-<div id="git">
+<div id="gitSection">
 
 ## Git
 - [Semantic Version](https://semver.org/)
@@ -55,7 +55,7 @@
 
 </div>
 
-<div id="java">
+<div id="javaSection">
 
 ## Java
 - [Comparison Method Violates Its General Contract! (Part 1) by Stuart Marks](https://youtu.be/Enwbh6wpnYs)
@@ -69,7 +69,7 @@
 
 </div>
 
-<div id="node">
+<div id="nodeSection">
 
 ## Node
 - [package.json is not enough](https://youtu.be/7lYnzRkVVLE)
@@ -79,7 +79,7 @@
 
 </div>  
   
-<div id="softwareEngineering">
+<div id="softwareEngineeringSection">
 
 ## Software Engineering
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
@@ -87,7 +87,7 @@
 
 </div>
 
-<div id="test">
+<div id="testSection">
 
 ## Test
 - [Rails Conf 2013 The Magic Tricks of Testing by Sandi Metz](https://youtu.be/URSWYvyc42M)
@@ -105,7 +105,7 @@
 
 </div>
 
-<div id="3rdWeb">
+<div id="3rdWebSection">
 
 ## The Third Web
 - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
@@ -115,7 +115,7 @@
 
 </div>
 
-<div id="quotes">
+<div id="quotesSection">
 
 ## Quotes
 - Enlightened trial-and-error succeeds over the planning of the lone genius
