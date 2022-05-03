@@ -6,6 +6,7 @@
       "title": "",
       "headings": {
         "the-bookmarks": "The Bookmarks",
+        "blog": "Blog",
         "cli": "CLI",
         "code": "Code",
         "frontend-libraries": "Frontend Libraries",
@@ -13,6 +14,7 @@
         "github-actions-workflows": "GitHub Actions/Workflows",
         "java": "Java",
         "node": "Node",
+        "open-source-software-news-and-amp-events": "Open-Source Software News &amp; Events",
         "software-engineering": "Software Engineering",
         "test": "Test",
         "the-third-web": "The Third Web",
@@ -50,6 +52,7 @@
       "src": "index.md",
       "title": "Bookmarks",
       "headings": {
+        "blog": "Blog",
         "cli": "CLI",
         "code": "Code",
         "frontend-libraries": "Frontend Libraries",
@@ -57,6 +60,7 @@
         "github-actions-workflows": "GitHub Actions/Workflows",
         "java": "Java",
         "node": "Node",
+        "open-source-software-news-and-amp-events": "Open-Source Software News &amp; Events",
         "software-engineering": "Software Engineering",
         "test": "Test",
         "the-third-web": "The Third Web",
