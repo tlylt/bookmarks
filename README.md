@@ -91,9 +91,7 @@
 
 ## Open-Source Software News & Events
 - [Hunting typosquatters on npm](https://blog.scottlogic.com/2018/02/27/hunting-typosquatters-on-npm.html)
-  - Hacking based on human error.
-- [Node’s Child Processes](https://jscomplete.com/learn/node-beyond-basics/child-processes)
-  - More advanced stuff about the child process module
+  - Hacking based on human error
 
 </div>
   
