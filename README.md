@@ -5,6 +5,14 @@
 
 <div id="bookmarks">
 
+<div id="blogSection">
+
+## Blog
+- [Scott Logic](https://blog.scottlogic.com/)
+  - Thoughts on technology and design
+
+</div>
+
 <div id="cliSection">
 
 ## CLI
@@ -77,7 +85,17 @@
 - [Node’s Child Processes](https://jscomplete.com/learn/node-beyond-basics/child-processes)
   - More advanced stuff about the child process module
 
-</div>  
+</div>
+
+<div id="ossSection">
+
+## Open-Source Software News & Events
+- [Hunting typosquatters on npm](https://blog.scottlogic.com/2018/02/27/hunting-typosquatters-on-npm.html)
+  - Hacking based on human error.
+- [Node’s Child Processes](https://jscomplete.com/learn/node-beyond-basics/child-processes)
+  - More advanced stuff about the child process module
+
+</div>
   
 <div id="softwareEngineeringSection">
 
@@ -123,6 +141,6 @@
   - Something to keep in mind when discussing over code/PR
   
 </div>
-  
+
 
 </div>
