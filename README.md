@@ -10,7 +10,11 @@
 ## Blog
 - [Scott Logic](https://blog.scottlogic.com/)
   - Thoughts on technology and design
-
+- [The Kent C. Dodds Blog](https://kentcdodds.com/blog)
+  - Web, Open Source, Testing and many more
+- [Josh W Comeau](https://www.joshwcomeau.com/)
+  - CSS and frontend in general
+  
 </div>
 
 <div id="cliSection">
