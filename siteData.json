@@ -6,6 +6,7 @@
       "title": "",
       "headings": {
         "the-bookmarks": "The Bookmarks",
+        "api": "API",
         "blog": "Blog",
         "cli": "CLI",
         "code": "Code",
@@ -52,6 +53,7 @@
       "src": "index.md",
       "title": "Bookmarks",
       "headings": {
+        "api": "API",
         "blog": "Blog",
         "cli": "CLI",
         "code": "Code",
