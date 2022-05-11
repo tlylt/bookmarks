@@ -5,6 +5,14 @@
 
 <div id="bookmarks">
 
+<div id="apiSection">
+
+## API
+- [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://youtu.be/IvsANO0qZEg)
+  - Quite a good comparison between the three popular choices, and conclusion is to focus on user case!
+  
+</div>
+
 <div id="blogSection">
 
 ## Blog
