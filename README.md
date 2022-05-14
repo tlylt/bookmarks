@@ -74,6 +74,18 @@
   - Tagging is an important concept to master, especially for release management
 
 </div>
+  
+<div id="goSection">
+
+## Go
+- [Go by Example](https://gobyexample.com/)
+  - Quick explanation with code examples
+- [How To Use Struct Tags in Go](https://www.digitalocean.com/community/tutorials/how-to-use-struct-tags-in-go)
+  - Useful to understand for JSON encoding/decoding
+- [User:GopherGuides](https://www.digitalocean.com/community/users/gopherguides)
+  - Tutorials & Guides
+
+</div>
 
 <div id="javaSection">
 
