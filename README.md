@@ -124,6 +124,10 @@
 ## Software Engineering
 - [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
   - We can't escape abstraction (either writing or using it), but it leaks!
+- [How Google sets goals: OKRs / Startup Lab Workshop](https://youtu.be/mJB83EZtAjc)
+  - Goal setting with OKR
+- [OKR examples](https://www.whatmatters.com/get-examples#Engineering)
+  - Some examples for engineers
 
 </div>
 
