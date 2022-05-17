@@ -84,6 +84,8 @@
   - Useful to understand for JSON encoding/decoding
 - [User:GopherGuides](https://www.digitalocean.com/community/users/gopherguides)
   - Tutorials & Guides
+- [Comprehensive Guide to Dates and Times in Go](https://blog.boot.dev/golang/golang-date-time/)
+  - Handle time in Go
 
 </div>
 
