@@ -86,7 +86,9 @@
   - Tutorials & Guides
 - [Comprehensive Guide to Dates and Times in Go](https://blog.boot.dev/golang/golang-date-time/)
   - Handle time in Go
-
+- [JSON-to-Go](https://mholt.github.io/json-to-go/)
+  - Convert JSON to Go struct
+  
 </div>
 
 <div id="javaSection">
