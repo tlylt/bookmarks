@@ -102,6 +102,8 @@
   - Introduction and some good discussion about Java's Stream feature
 - [Let's Get Lazy: Exploring the Real Power of Streams with Venkat Subramaniam](https://www.youtube.com/watch?v=ekFPGD2g-ps)
   - Well crafted presentation that explores various concepts of "Stream" in Java. Love the energy and the humour of the speaker too.
+- ["Change is the Only Constant”. Really? by Maurice Naftalin](https://youtu.be/Dr3jnTXnm5U)
+  - Some discussion about immutability, which is a really debatable...
 
 </div>
 
