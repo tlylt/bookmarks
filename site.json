@@ -21,6 +21,10 @@
       "title": "Bookmarks"
     },
     {
+      "src": "contents/productivity.md",
+      "title": "Productivity"
+    },
+    {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
     }
   ],

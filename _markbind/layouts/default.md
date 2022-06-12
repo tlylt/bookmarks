@@ -24,6 +24,7 @@
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
+* [Productivity :watch:]({{ baseUrl }}/contents/productivity.html)
       </site-nav>
     </div>
   </nav>
