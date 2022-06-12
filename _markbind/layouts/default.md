@@ -25,6 +25,8 @@
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
 * [Productivity :watch:]({{ baseUrl }}/contents/productivity.html)
+* [Patterns :computer:]({{ baseUrl }}/contents/patterns.html)
+* [Golang]({{ baseUrl }}/contents/golang.html)
       </site-nav>
     </div>
   </nav>
