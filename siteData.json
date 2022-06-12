@@ -27,6 +27,37 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/golang.md",
+      "title": "Golang",
+      "headings": {
+        "motivation": "Motivation",
+        "pass-by-value": "Pass by Value",
+        "array-vs-slice": "Array vs Slice",
+        "type-assertion-vs-type-conversion": "Type Assertion vs Type Conversion",
+        "references": "References"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/patterns.md",
+      "title": "Patterns",
+      "headings": {
+        "motivation": "Motivation",
+        "definitions": "Definitions",
+        "ddd": "DDD",
+        "repository-pattern": "Repository Pattern",
+        "create-a-repository-interface-in-the-service-layer": "Create a repository interface in the service layer",
+        "implement-the-repository-interface-in-the-datastore-layer": "Implement the repository interface in the datastore layer",
+        "invoking-the-service": "Invoking the service",
+        "references": "References",
+        "orchestrator-pattern": "Orchestrator Pattern",
+        "before": "Before",
+        "after": "After",
+        "references-2": "References"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/productivity.md",
       "title": "Productivity",
       "headings": {
@@ -37,18 +68,6 @@
         "extensions": "Extensions",
         "windows": "Windows"
       },
-      "headingKeywords": {}
-    },
-    {
-      "src": "contents/topic2.md",
-      "title": "",
-      "headings": {},
-      "headingKeywords": {}
-    },
-    {
-      "src": "contents/topic3a.md",
-      "title": "",
-      "headings": {},
       "headingKeywords": {}
     },
     {
