@@ -27,10 +27,15 @@
       "headingKeywords": {}
     },
     {
-      "src": "contents/topic1.md",
-      "title": "",
+      "src": "contents/productivity.md",
+      "title": "Productivity",
       "headings": {
-        "topic-1": "Topic 1"
+        "productivity-and-workflows": "Productivity and Workflows",
+        "browser": "Browser",
+        "vscode": "VSCode",
+        "mouseless": "Mouseless",
+        "extensions": "Extensions",
+        "windows": "Windows"
       },
       "headingKeywords": {}
     },
