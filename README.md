@@ -22,7 +22,8 @@
   - Web, Open Source, Testing and many more
 - [Josh W Comeau](https://www.joshwcomeau.com/)
   - CSS and frontend in general
-  
+- [当然我在扯淡](https://www.yinwang.org/)
+
 </div>
 
 <div id="cliSection">
