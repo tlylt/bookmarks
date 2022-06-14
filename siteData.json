@@ -34,6 +34,9 @@
         "pass-by-value": "Pass by Value",
         "array-vs-slice": "Array vs Slice",
         "type-assertion-vs-type-conversion": "Type Assertion vs Type Conversion",
+        "naming-things": "Naming things",
+        "goals": "Goals",
+        "guidelines": "Guidelines",
         "references": "References"
       },
       "headingKeywords": {}
