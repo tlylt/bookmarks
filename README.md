@@ -111,7 +111,7 @@
 <div id="newsletterSection">
 
 ## Newsletter
-- [The Pragmatic Engineer]([https://youtu.be/7lYnzRkVVLE](https://newsletter.pragmaticengineer.com/))
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
   - [Shipping to Production](https://newsletter.pragmaticengineer.com/p/shipping-to-production?s=r)
 
 </div>

@@ -54,7 +54,55 @@ func main() {
 }
 ```
 
+## Naming things
+
+### Goals
+
+- Consistent (easy to guess)
+- Short (easy to type)
+- Accurate (easy to understand)
+
+### Guidelines
+
+- Use MixedCase
+- Acronyms should be in all caps (serveHTTP and not serveHttp)
+- Short local variable
+- Avoid redundant names given their context
+
+
+#### Map
+
+- `v, ok := m[k]`
+
+#### Parameters
+
+- When the types are descriptive, they should be short
+- When the types are ambiguous, they should be longer
+
+#### Return Values
+
+- exported functions use named return values for documentaion
+
+
+#### Receivers
+
+- Short and consistent
+
+#### Exported Package-level Names
+
+- Qualified by the package names (they will always be referenced with the package, so don't repeat yourself)
+
+#### Errors
+
+- In the form of `FooError`
+
+#### Packages
+
+- Avoid `util`, `common`
+- Should describe what the package exports and not what it contains
+
 ## References
 
 - https://www.sohamkamani.com/golang/arrays-vs-slices/
 - https://www.infoq.com/presentations/go-patterns/
+- [What's in a name?](https://talks.golang.org/2014/names.slide#1)
