@@ -187,3 +187,36 @@ func Service3(ctx context.Context) (int64, error) {
 ### References
 
 - https://youtu.be/jPVz1Y4_2k4
+
+## Anti-Corruption Layer Pattern
+
+Idea: an isolation layer created to consume values from other system,
+acting as a translation layer in both directions
+
+### Create an anticorruption package
+
+```go
+package anticorruption
+
+// import the two packages
+
+func Kelvin(counutry string) float64 {
+    // Call the Kelvin package here
+    return kelvin.Calculate(country) - 273.15
+}
+
+func Fahrenheit(country string) float64 {
+    // Call the Fahrenheit package here
+    return (5.0/9.0) * (fahrenheit.New(country).Value() -32)
+}
+
+```
+
+Call the package in the service layer with a consistent signature.
+
+```go
+func main() {
+    kelvin := anticorruption.Kelvin("US")
+    fahrenheit := anticorruption.Fahrenheit("US")
+}
+```
