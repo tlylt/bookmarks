@@ -56,7 +56,9 @@
         "orchestrator-pattern": "Orchestrator Pattern",
         "before": "Before",
         "after": "After",
-        "references-2": "References"
+        "references-2": "References",
+        "anti-corruption-layer-pattern": "Anti-Corruption Layer Pattern",
+        "create-an-anticorruption-package": "Create an anticorruption package"
       },
       "headingKeywords": {}
     },
