@@ -101,6 +101,53 @@ func main() {
 - Avoid `util`, `common`
 - Should describe what the package exports and not what it contains
 
+## Go Routines
+
+There is the main routine and any new go routines that are created. When the go routine experiences a blocking call, it "calls out" to other go routines (or the main routine) to execute while it waits.
+
+Main routine is treated slightly differently from child go routines.
+
+- main routine controls when the program exits, even if there are ongoing child routines
+
+### Channel
+
+Communication between go routines is done through channels. Channel is typed and can be used to send and receive values.
+
+```go
+c := make(chan string)
+
+for _, link := range links {
+    go checkLink(link, c)
+}
+
+for l := range c {
+    go checkLink(l, c)
+}
+
+// function literal +
+// l will be the address of the outer loop due to closure
+// but l is reused in the loop
+for l := range c {
+    go func() {
+        time.Sleep(time.Second * 1)
+        checkLink(l, c)
+    }()
+}
+
+for l := range c {
+    go func(l string) {
+        time.Sleep(time.Second * 1)
+        checkLink(l, c)
+    }(l)
+}
+```
+
+### Concurrency is not parallelism
+
+Concurrency - execute multiple tasks at the same time (kind of, if there's more than one core), if one task is blocking, other tasks will be executed. At any one point in time, only one task is executing (for one core).
+
+Parallelism - execute multiple tasks at the same time.
+
 ## References
 
 - https://www.sohamkamani.com/golang/arrays-vs-slices/
