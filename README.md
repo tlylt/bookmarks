@@ -161,6 +161,11 @@
   - Quick take on data-driven development
 - [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://youtu.be/0dVIjWTI_A0)
   - A/B testing - what could go wrong?
+- [How to add testing to an existing project](https://kentcdodds.com/blog/how-to-add-testing-to-an-existing-project)
+  - Get started on software testing
+- [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
+- [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+  - Explains why a small number of test users can provide quite a bit of help already!
 
 </div>
 
