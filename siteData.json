@@ -37,6 +37,9 @@
         "naming-things": "Naming things",
         "goals": "Goals",
         "guidelines": "Guidelines",
+        "go-routines": "Go Routines",
+        "channel": "Channel",
+        "concurrency-is-not-parallelism": "Concurrency is not parallelism",
         "references": "References"
       },
       "headingKeywords": {}
