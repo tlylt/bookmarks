@@ -185,6 +185,7 @@
 - Enlightened trial-and-error succeeds over the planning of the lone genius
 - Critics are our friends, they show us our faults
   - Something to keep in mind when discussing over code/PR
+- Context, not control
   
 </div>
 
