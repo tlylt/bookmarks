@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build & Deploy MarkBind site
-        uses: MarkBind/markbind-action@v2
+        uses: tlylt/markbind-action@update-version
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
