@@ -73,6 +73,8 @@
   - Another shell tutorial that looks legit
 - [Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
   - Tagging is an important concept to master, especially for release management
+- [Retag a Git Tag](https://michaelheap.com/retag-git-tag/)
+  - Useful note when doing GitHub Action release management
 
 </div>
   
