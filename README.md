@@ -145,6 +145,7 @@
   - Goal setting with OKR
 - [OKR examples](https://www.whatmatters.com/get-examples#Engineering)
   - Some examples for engineers
+- [The Effective Engineer | Edmond Lau | Talks at Google](https://youtu.be/BnIz7H5ruy0)
 
 </div>
 
