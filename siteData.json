@@ -46,6 +46,18 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/interview.md",
+      "title": "",
+      "headings": {
+        "question": "Question",
+        "704-binary-search": "704. Binary Search",
+        "easy": "Easy",
+        "discussions": "Discussions",
+        "solutions": "Solutions"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/patterns.md",
       "title": "Patterns",
       "headings": {
@@ -77,12 +89,6 @@
         "extensions": "Extensions",
         "windows": "Windows"
       },
-      "headingKeywords": {}
-    },
-    {
-      "src": "contents/topic3b.md",
-      "title": "",
-      "headings": {},
       "headingKeywords": {}
     },
     {
