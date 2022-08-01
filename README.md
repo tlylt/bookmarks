@@ -94,6 +94,13 @@
   
 </div>
 
+<div id="interviewSection">
+
+## Interview
+- ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://youtu.be/YJZCUhxNCv8)
+
+</div>
+
 <div id="javaSection">
 
 ## Java
@@ -145,6 +152,7 @@
   - Goal setting with OKR
 - [OKR examples](https://www.whatmatters.com/get-examples#Engineering)
   - Some examples for engineers
+- [The Effective Engineer | Edmond Lau | Talks at Google](https://youtu.be/BnIz7H5ruy0)
 
 </div>
 
