@@ -153,6 +153,7 @@
 - [OKR examples](https://www.whatmatters.com/get-examples#Engineering)
   - Some examples for engineers
 - [The Effective Engineer | Edmond Lau | Talks at Google](https://youtu.be/BnIz7H5ruy0)
+- [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/)
 
 </div>
 
