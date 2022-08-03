@@ -33,6 +33,7 @@
 
 - Must the input be unique? What happens if it is not unique? Can you still use binary search?
   - Yes, but the result may not be the only matching value
+  - Can you modify the binary search algorithm to return all matching ones?
 - How do you define the boundary of the while loop,  `[left, right]` or `[left, right)`? Can you come up with both solutions?
 - Can you do it both iteratively and recursively?
 - What is the time and space complexity?
