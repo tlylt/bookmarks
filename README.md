@@ -61,6 +61,9 @@
   - Official guide on Semantic Versioning
 - [Manage releases with Semantic Versioning and Git Tags](https://www.youtube.com/watch?v=4wPjo5C-v8Y)
   - Video walkthrough on how to manage releases with Semantic Versioning and Git Tags
+- [Why do we use "git checkout" to discard file changes?](https://www.bryanbraun.com/2019/06/11/why-we-use-git-checkout-to-discard-file-changes/)
+  - Magic of `git checkout -- xxx`
+- [Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks)
 
 </div>
 
