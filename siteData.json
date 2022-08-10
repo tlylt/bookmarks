@@ -8,6 +8,7 @@
         "the-bookmarks": "The Bookmarks",
         "api": "API",
         "blog": "Blog",
+        "blockchain": "Blockchain",
         "cli": "CLI",
         "code": "Code",
         "frontend-libraries": "Frontend Libraries",
@@ -97,6 +98,7 @@
       "headings": {
         "api": "API",
         "blog": "Blog",
+        "blockchain": "Blockchain",
         "cli": "CLI",
         "code": "Code",
         "frontend-libraries": "Frontend Libraries",
