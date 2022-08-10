@@ -26,6 +26,14 @@
 
 </div>
 
+<div id="blockchainSection">
+
+## Blockchain
+- [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+- [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+
+</div>
+
 <div id="cliSection">
 
 ## CLI
