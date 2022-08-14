@@ -1,0 +1,26 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "*Also available as a [website](https://tlylt.github.io/bookmarks/)*",
+  "main": "index.js",
+  "scripts": {
+    "init": "markbind init",
+    "build": "markbind build",
+    "serve": "markbind serve",
+    "deploy": "markbind deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlylt/bookmarks.git"
+  },
+  "keywords": [],
+  "author": "tlylt <liu_yongliang@hotmail.com> (https://github.com/tlylt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlylt/bookmarks/issues"
+  },
+  "homepage": "https://github.com/tlylt/bookmarks#readme",
+  "devDependencies": {
+    "markbind-cli": "^4.0.0"
+  }
+}

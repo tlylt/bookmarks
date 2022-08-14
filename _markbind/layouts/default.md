@@ -28,6 +28,7 @@
 * [Patterns :computer:]({{ baseUrl }}/contents/patterns.html)
 * [Golang]({{ baseUrl }}/contents/golang.html)
 * [Interview]({{ baseUrl }}/contents/interview.html)
+* [Code Review]({{ baseUrl }}/contents/review.html)
       </site-nav>
     </div>
   </nav>
