@@ -54,7 +54,15 @@
         "704-binary-search": "704. Binary Search",
         "easy": "Easy",
         "discussions": "Discussions",
-        "solutions": "Solutions"
+        "solutions": "Solutions",
+        "question-2": "Question",
+        "27-remove-element": "27. Remove Element",
+        "easy-2": "Easy",
+        "discussions-2": "Discussions",
+        "solutions-2": "Solutions",
+        "question-3": "Question",
+        "discussions-3": "Discussions",
+        "solutions-3": "Solutions"
       },
       "headingKeywords": {}
     },
@@ -89,6 +97,16 @@
         "mouseless": "Mouseless",
         "extensions": "Extensions",
         "windows": "Windows"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/review.md",
+      "title": "Code Review",
+      "headings": {
+        "case-1-if-it-s-a-clear-bug": "Case 1: If it’s a clear bug",
+        "case-2-the-code-technically-works-but-you-want-it-to-look-nicer": "Case 2: The code technically works, but you want it to look nicer",
+        "case-3-you-have-comments-on-the-high-level-approach": "Case 3: You have comments on the high-level approach"
       },
       "headingKeywords": {}
     },
