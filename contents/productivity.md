@@ -15,6 +15,9 @@ Mouseless navigation with the help of [Vimium](https://chrome.google.com/webstor
 Bookmark Management with [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en)
 > Better than bookmarks. Organize your browser tabs and access them quickly anywhere.
 
+Easy link sharing with [Link to Text Fragment](https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg/related?hl=en)
+> Browser extension that allows for linking to arbitrary text on a page.
+
 ## VSCode
 
 ### Mouseless
