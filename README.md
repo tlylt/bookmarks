@@ -128,6 +128,15 @@
 
 </div>
 
+<div id="kafkaSection">
+
+## Kafka
+- [Overview of Kafka with macOS Demo](https://www.youtube.com/watch?v=jyEZgeu1sSw)
+- [Thorough Introduction to Apache Kafka™](https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
+- [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
+
+</div>
+
 <div id="newsletterSection">
 
 ## Newsletter
