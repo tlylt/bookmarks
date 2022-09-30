@@ -140,6 +140,15 @@
 
 <div id="newsletterSection">
 
+<div id="kubeSection">
+
+## Kubernetes
+- [How to learn Kubernetes in 2022](https://youtu.be/JeAHlTYB1Qk)
+
+</div>
+
+<div id="newsletterSection">
+
 ## Newsletter
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
   - [Shipping to Production](https://newsletter.pragmaticengineer.com/p/shipping-to-production?s=r)
