@@ -31,6 +31,7 @@
 ## Blockchain
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 - [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- [Game Theory and Network Attacks: How to Destroy Bitcoin - BPASE '18](https://youtu.be/ujz3sXpNgtc)
 
 </div>
 
