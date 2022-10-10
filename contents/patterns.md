@@ -74,15 +74,15 @@ func NewMongoDBRepository(url string) *MongoDBRepository {
 }
 
 func (m *MongoDBRepository) Update(ctx context.Context, id string) {
-    // Update the datastore via some sql query
+    // Update the datastore via some query
 }
 
 func (m *MongoDBRepository) Find(ctx context.Context, id string) {
-    // Find the datastore via some sql query
+    // Find the datastore via some query
 }
 
 func (m *MongoDBRepository) Create(ctx context.Context, id string) {
-    // Create the datastore via some sql query
+    // Create the datastore via some query
 }
 ```
 
