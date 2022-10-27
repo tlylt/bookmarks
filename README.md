@@ -111,6 +111,7 @@
 ## Interview
 - ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://youtu.be/YJZCUhxNCv8)
 - [互联网和数据领域 求职公开课 2019](https://youtu.be/QKDTPP5m0iM)
+- [Google resume tips and advice](https://youtu.be/S_Macvy5CQE)
 
 </div>
 
