@@ -23,6 +23,8 @@
 - [Josh W Comeau](https://www.joshwcomeau.com/)
   - CSS and frontend in general
 - [当然我在扯淡](https://www.yinwang.org/)
+- [Gergely Orosz - The Pragmatic Engineer](https://blog.pragmaticengineer.com/author/gergely/)
+  - Good perspective on Tech happenings and working at Tech
 
 </div>
 
