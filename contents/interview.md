@@ -233,3 +233,151 @@ class Solution:
             r -= 1
         return "".join(ans)
 ```
+
+# Question
+
+Given the root of a binary tree, return the sum of all left leaves.
+
+A leaf is a node with no children. A left leaf is a leaf that is the left child of another node.
+
+Input: root = [3,9,20,null,null,15,7]
+Output: 24
+Explanation: There are two left leaves in the binary tree, with values 9 and 15 respectively.
+
+Input: root = [1]
+Output: 0
+
+## Discussions
+- For recursive, what order are you using?
+- Can it be done iteratively?
+- Can it be done via level traversal?
+## Solutions
+
+Recursive
+```python
+class Solution:
+    def sumOfLeftLeaves(self, root: TreeNode) -> int:
+        if not root: 
+            return 0
+        
+        left_left_leaves_sum = self.sumOfLeftLeaves(root.left)  # 左
+        right_left_leaves_sum = self.sumOfLeftLeaves(root.right) # 右
+        
+        cur_left_leaf_val = 0
+        if root.left and not root.left.left and not root.left.right: 
+            cur_left_leaf_val = root.left.val 
+            
+        return cur_left_leaf_val + left_left_leaves_sum + right_left_leaves_sum # 中
+```
+
+Iterative
+```python
+class Solution:
+    def sumOfLeftLeaves(self, root: TreeNode) -> int:
+        """
+        Idea: Each time check current node's left node. 
+              If current node don't have one, skip it. 
+        """
+        stack = []
+        if root: 
+            stack.append(root)
+        res = 0
+        
+        while stack: 
+            # 每次都把当前节点的左节点加进去. 
+            cur_node = stack.pop()
+            if cur_node.left and not cur_node.left.left and not cur_node.left.right: 
+                res += cur_node.left.val
+                
+            if cur_node.left: 
+                stack.append(cur_node.left)
+            if cur_node.right: 
+                stack.append(cur_node.right)
+                
+        return res
+```
+
+# Question
+
+349. Intersection of Two Arrays
+
+Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order.
+
+Input: nums1 = [1,2,2,1], nums2 = [2,2]
+Output: [2]
+
+Input: nums1 = [4,9,5], nums2 = [9,4,9,8,4]
+Output: [9,4]
+Explanation: [4,9] is also accepted.
+
+Constraints:
+
+1 <= nums1.length, nums2.length <= 1000
+0 <= nums1[i], nums2[i] <= 1000
+
+
+## Discussion
+- O(n+m) time, O(n+m) space
+## Solution
+
+```java
+import java.util.HashSet;
+import java.util.Set;
+
+class Solution {
+    public int[] intersection(int[] nums1, int[] nums2) {
+        if (nums1 == null || nums1.length == 0 || nums2 == null || nums2.length == 0) {
+            return new int[0];
+        }
+        Set<Integer> set1 = new HashSet<>();
+        Set<Integer> resSet = new HashSet<>();
+        //遍历数组1
+        for (int i : nums1) {
+            set1.add(i);
+        }
+        //遍历数组2的过程中判断哈希表中是否存在该元素
+        for (int i : nums2) {
+            if (set1.contains(i)) {
+                resSet.add(i);
+            }
+        }
+        //将结果几何转为数组
+        return resSet.stream().mapToInt(x -> x).toArray();
+    }
+}
+```
+
+(Remarks from LeetCode discuss)
+This is a Facebook interview question.
+They ask for the intersection, which has a trivial solution using a hash or a set.
+
+Then they ask you to solve it under these constraints:
+O(n) time and O(1) space (the resulting array of intersections is not taken into consideration).
+You are told the lists are sorted.
+
+Cases to take into consideration include:
+duplicates, negative values, single value lists, 0's, and empty list arguments.
+Other considerations might include
+sparse arrays.
+
+```js
+function intersections(l1, l2) {
+    l1.sort((a, b) => a - b) // assume sorted
+    l2.sort((a, b) => a - b) // assume sorted
+    const intersections = []
+    let l = 0, r = 0;
+    while ((l2[l] && l1[r]) !== undefined) {
+       const left = l1[r], right = l2[l];
+        if (right === left) {
+            intersections.push(right)
+            while (left === l1[r]) r++;
+            while (right === l2[l]) l++;
+            continue;
+        }
+        if (right > left) while (left === l1[r]) r++;
+         else while (right === l2[l]) l++;
+        
+    }
+    return intersections;
+}
+```
