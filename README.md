@@ -171,9 +171,11 @@
 
 <div id="ossSection">
 
-## Open-Source Software News & Events
+## Open-Source Guides, Software News & Events
 - [Hunting typosquatters on npm](https://blog.scottlogic.com/2018/02/27/hunting-typosquatters-on-npm.html)
   - Hacking based on human error
+- [Open Source Guides](https://opensource.guide/)
+  - Learn how to launch and grow OSS projects
 
 </div>
   
