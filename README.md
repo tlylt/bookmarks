@@ -23,6 +23,8 @@
 - [Josh W Comeau](https://www.joshwcomeau.com/)
   - CSS and frontend in general
 - [当然我在扯淡](https://www.yinwang.org/)
+- [Gergely Orosz - The Pragmatic Engineer](https://blog.pragmaticengineer.com/author/gergely/)
+  - Good perspective on Tech happenings and working at Tech
 
 </div>
 
@@ -31,6 +33,7 @@
 ## Blockchain
 - [How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 - [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- [Game Theory and Network Attacks: How to Destroy Bitcoin - BPASE '18](https://youtu.be/ujz3sXpNgtc)
 
 </div>
 
@@ -109,6 +112,8 @@
 
 ## Interview
 - ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://youtu.be/YJZCUhxNCv8)
+- [互联网和数据领域 求职公开课 2019](https://youtu.be/QKDTPP5m0iM)
+- [Google resume tips and advice](https://youtu.be/S_Macvy5CQE)
 
 </div>
 
@@ -125,6 +130,24 @@
   - Well crafted presentation that explores various concepts of "Stream" in Java. Love the energy and the humour of the speaker too.
 - ["Change is the Only Constant”. Really? by Maurice Naftalin](https://youtu.be/Dr3jnTXnm5U)
   - Some discussion about immutability, which is a really debatable...
+
+</div>
+
+<div id="kafkaSection">
+
+## Kafka
+- [Overview of Kafka with macOS Demo](https://www.youtube.com/watch?v=jyEZgeu1sSw)
+- [Thorough Introduction to Apache Kafka™](https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1)
+- [Kafka and Zookeeper with Docker](https://medium.com/rahasak/kafka-and-zookeeper-with-docker-65cff2c2c34f)
+
+</div>
+
+<div id="newsletterSection">
+
+<div id="kubeSection">
+
+## Kubernetes
+- [How to learn Kubernetes in 2022](https://youtu.be/JeAHlTYB1Qk)
 
 </div>
 
@@ -148,9 +171,11 @@
 
 <div id="ossSection">
 
-## Open-Source Software News & Events
+## Open-Source Guides, Software News & Events
 - [Hunting typosquatters on npm](https://blog.scottlogic.com/2018/02/27/hunting-typosquatters-on-npm.html)
   - Hacking based on human error
+- [Open Source Guides](https://opensource.guide/)
+  - Learn how to launch and grow OSS projects
 
 </div>
   
