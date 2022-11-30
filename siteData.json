@@ -64,7 +64,13 @@
         "solutions-2": "Solutions",
         "question-3": "Question",
         "discussions-3": "Discussions",
-        "solutions-3": "Solutions"
+        "solutions-3": "Solutions",
+        "question-4": "Question",
+        "discussions-4": "Discussions",
+        "solutions-4": "Solutions",
+        "question-5": "Question",
+        "discussion": "Discussion",
+        "solution": "Solution"
       },
       "headingKeywords": {}
     },
