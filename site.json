@@ -6,7 +6,9 @@
     "bootstrapTheme": "bootswatch-litera",
     "codeTheme": "light"
   },
-  "plugins": ["codeBlockCopyButtons"],
+  "plugins": [
+    "codeBlockCopyButtons"
+  ],
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",
@@ -17,7 +19,9 @@
     ".git/*",
     "node_modules/*"
   ],
-  "pagesExclude": ["node_modules/*"],
+  "pagesExclude": [
+    "node_modules/*"
+  ],
   "pages": [
     {
       "src": "index.md",
@@ -40,7 +44,14 @@
       "title": "Code Review"
     },
     {
-      "glob": ["**/index.md", "**/*.md"]
+      "src": "contents/conversational.md",
+      "title": "Conversational Agent"
+    },
+    {
+      "glob": [
+        "**/index.md",
+        "**/*.md"
+      ]
     }
   ],
   "deploy": {

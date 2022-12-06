@@ -29,6 +29,7 @@
 * [Golang]({{ baseUrl }}/contents/golang.html)
 * [Interview]({{ baseUrl }}/contents/interview.html)
 * [Code Review]({{ baseUrl }}/contents/review.html)
+* [Conversational Agent]({{ baseUrl }}/contents/conversational.html)
       </site-nav>
     </div>
   </nav>
