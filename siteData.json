@@ -31,6 +31,16 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/conversational.md",
+      "title": "Conversational Agent",
+      "headings": {
+        "motivation": "Motivation",
+        "2022-hai-fall-conference-on-ai-in-the-loop-humans-in-charge": "2022 HAI Fall Conference on AI in the Loop: Humans in Charge",
+        "panel-i-designing-for-ai": "Panel I: Designing for AI"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/golang.md",
       "title": "Golang",
       "headings": {
