@@ -37,6 +37,14 @@
 
 </div>
 
+<div id="careerSection">
+
+## Career
+- [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/#template)
+  - Something that I want to start doing to keep track and review my work
+
+</div>
+
 <div id="cliSection">
 
 ## CLI
