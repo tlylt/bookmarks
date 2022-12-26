@@ -25,6 +25,7 @@
 - [当然我在扯淡](https://www.yinwang.org/)
 - [Gergely Orosz - The Pragmatic Engineer](https://blog.pragmaticengineer.com/author/gergely/)
   - Good perspective on Tech happenings and working at Tech
+- [Benjamin YolkenAdventures in software engineering](https://grafana.com/blog/2022/07/29/inside-grafana-labs-my-first-30-days-as-a-grafanista/)
 
 </div>
 
