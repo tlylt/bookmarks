@@ -185,6 +185,9 @@
   - Hacking based on human error
 - [Open Source Guides](https://opensource.guide/)
   - Learn how to launch and grow OSS projects
+- [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/)
+  - How to nicely close contributor PRs
+
 
 </div>
   
