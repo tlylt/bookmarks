@@ -120,6 +120,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/research.md",
+      "title": "Research Notes",
+      "headings": {
+        "books": "Books",
+        "writing-up-research": "Writing up research",
+        "report-structure": "Report Structure",
+        "formulating-a-research-question": "Formulating a Research Question",
+        "formulating-a-hypothesis": "Formulating a Hypothesis",
+        "introduction": "Introduction"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/review.md",
       "title": "Code Review",
       "headings": {
