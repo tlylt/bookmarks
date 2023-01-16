@@ -48,6 +48,10 @@
       "title": "Conversational Agent"
     },
     {
+      "src": "contents/research.md",
+      "title": "Research Notes"
+    },
+    {
       "glob": [
         "**/index.md",
         "**/*.md"
