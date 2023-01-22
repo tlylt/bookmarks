@@ -3,6 +3,56 @@
   pageNav: 2
 </frontmatter>
 
+# My Code Review Companion
+
+## Software Red Flags
+
+Shallow Module
+- the interface for a class or method isn't much simpler than its implementation
+
+Information Leakage
+- a design decision is reflected in multiple modules
+
+Temporal Decomposition
+- the code structure is based on the order in which operations are executed, not on information hiding
+
+Overexposure
+- an API forces callers to be aware of rarely used features in order to use commonly used features
+
+Pass-Through method
+- a method does almost nothing except pass its arguments to another method with a similiar signature
+
+Repetition
+- a nontrivial piece of code is repeated over and over
+
+Special-General Mixture
+- special-purpose code is not cleanly separated from general-purpose code
+
+Conjoined Methods
+- two methods have so many dependencies that its hard to understand the implementation of one without understanding the implementation of the other
+
+Comment Repeats Code
+- all of the information in a comment is immediately obvious from the code next the comment
+
+Implementation Documentation Contaminates Interface
+- an interface comment describes implementation details not needed by users of the thing being documented
+
+Vague Name
+- the name of a variable or method is so imprecise that it doesn't convey much useful information
+
+Hard to Pick Name
+- it is difficult to come up with a precise and intuitive name for an entity
+
+Hard to Describe
+- in order to be complete, the documentation for a variable or method must be long
+
+Nonobvious Code
+- the behavior or meaning of a piece of code cannot be understood easily
+
+Source:
+- philosophy of software design by John Ousterhout
+
+## What To Say
 ### Case 1: If it’s a clear bug
 
 “Hey, thanks for writing the code to do X! I had a question about the implementation. It seems like it’s using Y to get Z. I may be missing something, but what I would expect is that we would use Z to get Y. Otherwise if you look at minimal example E, I think the current logic would return “true”, whereas we’d want it to return “false”. What do you think?”
