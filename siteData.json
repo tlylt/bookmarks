@@ -136,6 +136,9 @@
       "src": "contents/review.md",
       "title": "Code Review",
       "headings": {
+        "my-code-review-companion": "My Code Review Companion",
+        "software-red-flags": "Software Red Flags",
+        "what-to-say": "What To Say",
         "case-1-if-it-s-a-clear-bug": "Case 1: If it’s a clear bug",
         "case-2-the-code-technically-works-but-you-want-it-to-look-nicer": "Case 2: The code technically works, but you want it to look nicer",
         "case-3-you-have-comments-on-the-high-level-approach": "Case 3: You have comments on the high-level approach"
