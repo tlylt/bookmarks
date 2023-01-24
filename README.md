@@ -205,6 +205,7 @@
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
   - Open source collection of all things system design
+- [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://youtu.be/bmSAYlu0NcY)
 
 </div>
 
