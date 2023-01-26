@@ -135,3 +135,17 @@ language
 - use tentative verbs of report for suggestions or proposals
 - use modal auxiliaries in the complement to indicate tentative findings
   
+  #### Advancing to present research
+
+  Missing information
+  - indicate that the previous literature described in the review is inadequate beacause an important aspect of the research area has been ignored by other authors
+  - there is an unresolved conflict among the authors of previous studies concerning the research topic. This may be theoretical or methodological disagreement.
+  - an examination of the previous literature suggests an extension of the topic, or raise a new research question not previously considered by other workers in your field
+
+  signaling by
+  - signal word + Gap (present or present perfect) + research topic
+    - (however, but)
+    - few studies have been done on
+    - little literature is available on
+    - very little is known about
+    - no work has been done on
