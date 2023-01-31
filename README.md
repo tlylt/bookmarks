@@ -26,6 +26,7 @@
 - [Gergely Orosz - The Pragmatic Engineer](https://blog.pragmaticengineer.com/author/gergely/)
   - Good perspective on Tech happenings and working at Tech
 - [Benjamin Yolken | Adventures in software engineering](https://yolken.net/)
+- [antirez](http://antirez.com/latest/0)
 
 </div>
 
