@@ -250,7 +250,8 @@
 - Critics are our friends, they show us our faults
   - Something to keep in mind when discussing over code/PR
 - Context, not control
-  
+- Testing can only prove the presence of bugs, not their absence
+
 </div>
 
 <div id="zzzSection">
