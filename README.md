@@ -161,6 +161,13 @@
 
 </div>
 
+<div id="knowledgeSection">
+
+## Knowledge Management
+- [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
+
+</div>
+
 <div id="newsletterSection">
 
 ## Newsletter
