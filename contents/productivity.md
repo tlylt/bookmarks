@@ -45,6 +45,7 @@ Easy link sharing with [Link to Text Fragment](https://chrome.google.com/webstor
 - Better Comments
 - GitLens
 - Live Preview
+- Import Cost
 
 ## Windows
 
