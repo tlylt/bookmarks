@@ -40,6 +40,14 @@
 
 </div>
 
+<div id="chatGPTSection">
+
+## ChatGPT
+- [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web/amp)
+  - "OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?"
+
+</div>
+
 <div id="careerSection">
 
 ## Career
