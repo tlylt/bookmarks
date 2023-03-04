@@ -88,6 +88,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/interviewing.md",
+      "title": "My Coding Interview Notes",
+      "headings": {
+        "reflection-and-amp-learning-from-interviews-mock-ones-included": "Reflection &amp; Learning from Interviews (Mock ones included)"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/patterns.md",
       "title": "Patterns",
       "headings": {
