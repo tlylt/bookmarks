@@ -52,6 +52,10 @@
       "title": "Research Notes"
     },
     {
+      "src": "contents/interviewing.md",
+      "title": "My Coding Interview Notes"
+    },
+    {
       "glob": [
         "**/index.md",
         "**/*.md"
