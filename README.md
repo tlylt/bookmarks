@@ -248,6 +248,8 @@
 - [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
 - [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
   - Explains why a small number of test users can provide quite a bit of help already!
+- [Mutation testing by example – Junit 5, Maven and Pitest](https://codesoapbox.dev/mutation-testing-by-example-junit-5-maven-and-pitest/)
+  - Mutations and killing them
 
 </div>
 
