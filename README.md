@@ -274,6 +274,13 @@
 
 </div>
 
+<div id="writeSection">
+
+## Writing
+- [How to write usefully](http://www.paulgraham.com/useful.html)
+
+</div>
+
 <div id="zzzSection">
 
 ## Zzz! Those Issues
