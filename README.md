@@ -251,6 +251,7 @@
   - Explains why a small number of test users can provide quite a bit of help already!
 - [Mutation testing by example – Junit 5, Maven and Pitest](https://codesoapbox.dev/mutation-testing-by-example-junit-5-maven-and-pitest/)
   - Mutations and killing them
+- [Curated list of resources on testing distributed systems](https://github.com/asatarin/testing-distributed-systems)
 
 </div>
 
