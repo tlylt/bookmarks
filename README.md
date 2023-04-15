@@ -81,6 +81,7 @@
 
 ## CSS
 - [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+- [Flexbox Patterns](https://flexboxpatterns.com/)
 
 </div>
 
