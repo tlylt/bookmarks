@@ -28,6 +28,8 @@
 - [Benjamin Yolken | Adventures in software engineering](https://yolken.net/)
 - [antirez](http://antirez.com/latest/0)
 - [Peter Bengtsson](https://www.peterbe.com/plog)
+- [Simon Willison’s Weblog](https://simonwillison.net/)
+  - (At the time of reading) great info on generative AI, especially the danger
 
 </div>
 
