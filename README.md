@@ -215,7 +215,8 @@
   - Learn how to launch and grow OSS projects
 - [The Art of Closing](https://blog.jessfraz.com/post/the-art-of-closing/)
   - How to nicely close contributor PRs
-
+- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
+  - Dealing with maintainer burnout
 
 </div>
   
