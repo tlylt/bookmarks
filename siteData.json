@@ -3,7 +3,6 @@
   "pages": [
     {
       "src": "README.md",
-      "title": "",
       "headings": {
         "the-bookmarks": "The Bookmarks",
         "api": "API",
@@ -65,7 +64,6 @@
     },
     {
       "src": "contents/interview.md",
-      "title": "",
       "headings": {
         "question": "Question",
         "704-binary-search": "704. Binary Search",
