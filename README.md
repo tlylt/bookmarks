@@ -196,6 +196,7 @@
 ## Newsletter
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
   - [Shipping to Production](https://newsletter.pragmaticengineer.com/p/shipping-to-production?s=r)
+- [ByteByteGo](https://blog.bytebytego.com/?utm_source=site)
 
 </div>
 
@@ -239,6 +240,7 @@
   - Open source collection of all things system design
 - [A Philosophy of Software Design | John Ousterhout | Talks at Google](https://youtu.be/bmSAYlu0NcY)
 - [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+- [StaffEng](https://staffeng.com/)
 
 </div>
 
