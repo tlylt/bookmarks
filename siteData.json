@@ -130,6 +130,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/python.md",
+      "title": "Python",
+      "headings": {
+        "publishing-a-package": "Publishing a package"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/research.md",
       "title": "Research Notes",
       "headings": {
