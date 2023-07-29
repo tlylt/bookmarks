@@ -27,6 +27,7 @@
 * [Productivity :watch:]({{ baseUrl }}/contents/productivity.html)
 * [Patterns :computer:]({{ baseUrl }}/contents/patterns.html)
 * [Golang]({{ baseUrl }}/contents/golang.html)
+* [Python]({{ baseUrl }}/contents/python.html)
 * [Interview Questions]({{ baseUrl }}/contents/interview.html)
 * [Interview Notes]({{ baseUrl }}/contents/interviewing.html)
 * [Code Review]({{ baseUrl }}/contents/review.html)

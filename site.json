@@ -56,6 +56,10 @@
       "title": "My Coding Interview Notes"
     },
     {
+      "src": "contents/python.md",
+      "title": "Python"
+    },
+    {
       "glob": [
         "**/index.md",
         "**/*.md"
