@@ -56,6 +56,7 @@
 ## Career
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/#template)
   - Something that I want to start doing to keep track and review my work
+- [Chad Fowler - The Passionate Programmer: 10 years later](https://youtu.be/CkfjCef-iYI)
 
 </div>
 
