@@ -138,6 +138,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/questions.md",
+      "headings": {
+        "the-questions": "The Questions",
+        "for-career-sharing-session": "For Career Sharing Session"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/research.md",
       "title": "Research Notes",
       "headings": {
