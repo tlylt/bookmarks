@@ -17,3 +17,8 @@ https://www.linkedin.com/posts/dickiebush_7-questions-to-ask-people-ahead-of-you
 
 ## For Career Sharing Session
 - What were your career goals and northstar that you set for yourself, when you were starting out?
+
+## For mentorship
+
+## For internship management
+- How can I best position myself to be a good intern, and be a good fit for the team?

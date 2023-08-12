@@ -33,6 +33,7 @@
 * [Code Review]({{ baseUrl }}/contents/review.html)
 * [Conversational Agent]({{ baseUrl }}/contents/conversational.html)
 * [Research Notes]({{ baseUrl }}/contents/research.html)
+* [Speaking Notes]({{ baseUrl }}/contents/speak.html)
       </site-nav>
     </div>
   </nav>

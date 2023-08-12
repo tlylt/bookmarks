@@ -60,6 +60,14 @@
       "title": "Python"
     },
     {
+      "src": "contents/questions.md",
+      "title": "Questions"
+    },
+    {
+      "src": "contents/speak.md",
+      "title": "Speak"
+    },
+    {
       "glob": [
         "**/index.md",
         "**/*.md"
