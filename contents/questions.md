@@ -22,3 +22,6 @@ https://www.linkedin.com/posts/dickiebush_7-questions-to-ask-people-ahead-of-you
 
 ## For internship management
 - How can I best position myself to be a good intern, and be a good fit for the team?
+
+## Final Interview Questions
+- https://www.techinterviewhandbook.org/final-questions/
