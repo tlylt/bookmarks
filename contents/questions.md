@@ -25,3 +25,10 @@ https://www.linkedin.com/posts/dickiebush_7-questions-to-ask-people-ahead-of-you
 
 ## Final Interview Questions
 - https://www.techinterviewhandbook.org/final-questions/
+- https://youtu.be/P0sew9TBPJ0
+  - 00:00 Ask the Interviewer Thoughtful Questions
+  - 00:52 Ask about the interviewer
+  - 01:55 Tell me about a recent hire
+  - 02:24 Which teams will I be working with?
+  - 02:56 How will my success be measured?
+  - 03:24 Do you have any hesitations about hiring me?
