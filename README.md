@@ -59,6 +59,7 @@
 - [Chad Fowler - The Passionate Programmer: 10 years later](https://youtu.be/CkfjCef-iYI)
 - [A forty-year career.](https://lethain.com/forty-year-career/)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 </div>
 
