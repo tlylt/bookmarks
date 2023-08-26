@@ -201,6 +201,14 @@
 
 </div>
 
+<div id="negotiationSection">
+
+## Negotiation
+- [Exactly what to say when recruiters ask you to name the first number… and other negotiation word-for-words](https://interviewing.io/blog/negotiate-salary-recruiter)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+
+</div>
+
 <div id="nodeSection">
 
 ## Node
