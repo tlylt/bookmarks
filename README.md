@@ -48,7 +48,9 @@
 - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web/amp)
   - "OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?"
 - [“It’s Not Possible for Me to Feel or Be Creepy”: An Interview with ChatGPT](https://www.newyorker.com/news/the-new-yorker-interview/its-not-possible-for-me-to-feel-or-be-creepy-an-interview-with-chatgpt#intcid=_the-new-yorker-amp-bottom-recirc_ddb11839-ea89-43e6-a1c4-ead46e87c796_text2vec1)
-
+- [Making Large Language Models Work For You](https://youtu.be/aC7UQcZN6y8?si=kU4Wt4lG8U09sjFU)
+  - Great coverage of LLM and its current state of development
+ 
 </div>
 
 <div id="careerSection">
