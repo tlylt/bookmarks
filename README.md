@@ -48,7 +48,9 @@
 - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web/amp)
   - "OpenAI’s chatbot offers paraphrases, whereas Google offers quotes. Which do we prefer?"
 - [“It’s Not Possible for Me to Feel or Be Creepy”: An Interview with ChatGPT](https://www.newyorker.com/news/the-new-yorker-interview/its-not-possible-for-me-to-feel-or-be-creepy-an-interview-with-chatgpt#intcid=_the-new-yorker-amp-bottom-recirc_ddb11839-ea89-43e6-a1c4-ead46e87c796_text2vec1)
-
+- [Making Large Language Models Work For You](https://youtu.be/aC7UQcZN6y8?si=kU4Wt4lG8U09sjFU)
+  - Great coverage of LLM and its current state of development
+ 
 </div>
 
 <div id="careerSection">
@@ -57,6 +59,9 @@
 - [Get your work recognized: write a brag document](https://jvns.ca/blog/brag-documents/#template)
   - Something that I want to start doing to keep track and review my work
 - [Chad Fowler - The Passionate Programmer: 10 years later](https://youtu.be/CkfjCef-iYI)
+- [A forty-year career.](https://lethain.com/forty-year-career/)
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 </div>
 
@@ -198,6 +203,14 @@
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
   - [Shipping to Production](https://newsletter.pragmaticengineer.com/p/shipping-to-production?s=r)
 - [ByteByteGo](https://blog.bytebytego.com/?utm_source=site)
+
+</div>
+
+<div id="negotiationSection">
+
+## Negotiation
+- [Exactly what to say when recruiters ask you to name the first number… and other negotiation word-for-words](https://interviewing.io/blog/negotiate-salary-recruiter)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 </div>
 

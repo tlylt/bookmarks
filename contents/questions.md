@@ -23,3 +23,28 @@ https://www.linkedin.com/posts/dickiebush_7-questions-to-ask-people-ahead-of-you
 
 ## For internship management
 - How can I best position myself to be a good intern, and be a good fit for the team?
+
+## Final Interview Questions
+- https://www.techinterviewhandbook.org/final-questions/
+- https://youtu.be/P0sew9TBPJ0
+  - 00:00 Ask the Interviewer Thoughtful Questions
+  - 00:52 Ask about the interviewer
+  - 01:55 Tell me about a recent hire
+  - 02:24 Which teams will I be working with?
+  - 02:56 How will my success be measured?
+  - 03:24 Do you have any hesitations about hiring me?
+
+## Coffee Chat Questions
+- https://www.youtube.com/watch?v=4b2iagdHw8M
+- Tasks and Responsibilities:
+  - What aspect of your job do you find most rewarding?
+  - How is your performance measured?
+- Career Path:
+  - How did you begin your career?
+  - If you think about a new hire you enjoyed working with, what are some of their characteristics that come to mind?
+  - What did you find the most surprising about the role?
+- Industry Knowledge:
+  - What publications would you recommend I subscribe to if I want to stay up-to-date on this industry’s trends?
+  - What are some current events or trends in the industry that I should be aware of?
+- Extra at the end!
+  - Based on what we discussed today, is there anyone else you think I should talk to?
