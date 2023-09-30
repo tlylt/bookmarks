@@ -19,6 +19,7 @@ https://www.linkedin.com/posts/dickiebush_7-questions-to-ask-people-ahead-of-you
 - What were your career goals and northstar that you set for yourself, when you were starting out?
 
 ## For mentorship
+- How can I work with people with different opinions, especially when I have a strong opinion on something?
 
 ## For internship management
 - How can I best position myself to be a good intern, and be a good fit for the team?
