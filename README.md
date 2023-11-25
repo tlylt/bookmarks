@@ -30,6 +30,7 @@
 - [Peter Bengtsson](https://www.peterbe.com/plog)
 - [Simon Willison’s Weblog](https://simonwillison.net/)
   - (At the time of reading) great info on generative AI, especially the danger
+- [No Idea Blog](https://noidea.dog/)
 
 </div>
 
