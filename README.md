@@ -5,6 +5,14 @@
 
 <div id="bookmarks">
 
+<div id="websiteSection">
+
+## Websites that look nice to me
+- [PostHog](https://posthog.com/product-analytics)
+  - I like the color palette and the style
+  
+</div>
+
 <div id="apiSection">
 
 ## API
