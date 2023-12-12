@@ -5,6 +5,7 @@
       "src": "README.md",
       "headings": {
         "the-bookmarks": "The Bookmarks",
+        "websites-that-look-nice-to-me": "Websites that look nice to me",
         "api": "API",
         "blog": "Blog",
         "blockchain": "Blockchain",
@@ -189,6 +190,7 @@
       "src": "index.md",
       "title": "Bookmarks",
       "headings": {
+        "websites-that-look-nice-to-me": "Websites that look nice to me",
         "api": "API",
         "blog": "Blog",
         "blockchain": "Blockchain",
